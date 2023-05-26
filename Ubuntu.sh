@@ -41,6 +41,14 @@ sudo apt-get autoclean ;
 sleep 2;
 clear;
 
+echo "####################";
+echo "# Update Ubuntu OS #";
+echo "####################";
+sudo do-release-upgrade -y;
+
+sleep 2;
+clear;
+
 echo "##################";
 echo "# System Restart #"
 echo "##################";

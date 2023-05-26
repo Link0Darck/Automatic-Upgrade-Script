@@ -41,7 +41,6 @@ sudo apt-get autoclean ;
 sleep 2;
 clear;
 
-
 echo "#########################";
 echo "# Update Rasberry PI OS #";
 echo "#########################";
@@ -49,7 +48,6 @@ sudo rpi-update -y;
 
 sleep 2;
 clear;
-
 
 echo "##################";
 echo "# System Restart #"
