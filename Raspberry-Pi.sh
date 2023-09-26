@@ -6,10 +6,10 @@
 
 clear;
 
-echo "##############################################";
-echo "# Script Mise à Jour De Link_Darck           #";
+echo "###############################################";
+echo "# Script Mise à Jour De Link_Darck            #";
 echo "# Website : https://linkdarck.neko-world.ovh/ #";
-echo "##############################################";
+echo "###############################################";
 
 sleep 5;
 clear;
