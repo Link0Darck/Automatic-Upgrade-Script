@@ -44,7 +44,9 @@ clear;
 echo "####################";
 echo "# Update Ubuntu OS #";
 echo "####################";
-sudo do-release-upgrade -y;
+#nano /etc/update-manager/release-upgrades
+#Prompt= normal
+sudo do-release-upgrade;
 
 sleep 2;
 clear;
