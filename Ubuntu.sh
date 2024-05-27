@@ -45,7 +45,7 @@ echo "####################";
 echo "# Update Ubuntu OS #";
 echo "####################";
 #nano /etc/update-manager/release-upgrades
-#Prompt= normal
+#Prompt= [normal = 23.10] [lts = 24.04 LTS]
 sudo do-release-upgrade;
 
 sleep 2;
